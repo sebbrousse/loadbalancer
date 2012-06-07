@@ -1,0 +1,14 @@
+**bin/
+**.svn/
+target/
+.DS_Store
+keystore
+**.classpath
+**.project
+**.settings/
+**.iml
+**.ipr
+**.iws
+**.idea/
+**target/
+
